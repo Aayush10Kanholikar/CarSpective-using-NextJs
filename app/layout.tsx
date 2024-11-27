@@ -5,6 +5,9 @@ import { Footer, Navbar } from "@/components";
 export const metadata: Metadata = {
   title: "CarSpective",
   description: "Discover the best cars in the world",
+  icons: {
+    icon: "carlogo.jpg",
+  },
 };
 
 export default function RootLayout({
