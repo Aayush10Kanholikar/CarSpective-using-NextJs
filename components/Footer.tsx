@@ -19,7 +19,7 @@ const Footer = () => {
             <span className="font-bold text-2xl text-red-500">CarSpective</span>
           </Link>
           <p className="text-base text-gray-700">
-            CarSpective 2024 <br /> All rights reserved &copy;
+            CarSpective 2025 <br /> All rights reserved &copy;
           </p>
         </div>
         <div className="footer__links">
@@ -40,7 +40,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="flex justif items-center flex-wrap mt-10 border-t border-gray-100 sm:px-16 px-6 py-10">
-        @2024 CarSpective. All Rights Reseved
+        @2025 CarSpective. All Rights Reseved
         <div className="footer__copyrights-link">
           <Link href={"/"} className="text-gray-500">
             Privacy Policy

@@ -14,8 +14,8 @@ module.exports = {
       colors: {
         "black-100": "#2B2C35",
         "primary-blue": {
-          DEFAULT: "#2B59FF",
-          100: "#F5F8FF",
+          DEFAULT: "#ff2b2b",
+          100: "#fff5f5",
         },
         "secondary-orange": "#f79761",
         "light-white": {
@@ -25,9 +25,9 @@ module.exports = {
         grey: "#747A88",
       },
       backgroundImage: {
-        'pattern': "url('/pattern.png')",
-        'hero-bg': "url('/hero-bg.png')"
-      }
+        pattern: "url('/pattern.png')",
+        "hero-bg": "url('/hero-bg.png')",
+      },
     },
   },
   plugins: [],

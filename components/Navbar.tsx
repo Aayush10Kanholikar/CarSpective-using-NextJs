@@ -18,11 +18,11 @@ const Navbar = () => {
           />
           <span className="font-bold text-2xl text-red-500">CarSpective</span>
         </Link>
-        <CustomButtom
+        {/* <CustomButtom
           btnType="button"
           title="Sign In"
           containerStyles="text-primary-blue rounded-full bg-white min-w-[130px]"
-        />
+        /> */}
       </nav>
     </header>
   );
